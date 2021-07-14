@@ -7,3 +7,4 @@
 - [5回目資料](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/05.pdf)
 - [6回目資料](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/06.pdf)
 - [7回目資料](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/07.pdf)
+- [スライド発表の例](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/example.pdf)
