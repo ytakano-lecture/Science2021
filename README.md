@@ -6,3 +6,4 @@
 - [4回目資料](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/04.pdf)
 - [5回目資料](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/05.pdf)
 - [6回目資料](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/06.pdf)
+- [7回目資料](https://github.com/ytakano-lecture/Science2021/blob/main/pdf/07.pdf)
